@@ -1,7 +1,7 @@
 # Md Sayed Alve
 
 <p align="left">
-  <b>Vibe Coder &nbsp;•&nbsp; AI-Assisted Builder &nbsp;•&nbsp; Civil Engineering Student at SUST</b><br>
+  <b>Vibe Coder &nbsp;•&nbsp; AI-Assisted Builder &nbsp;•&nbsp; Civil & Environmental Engineering Student at SUST</b><br>
   Turning ideas into working software through AI pair programming, rapid experimentation, and hands-on iteration.
 </p>
 
@@ -24,7 +24,7 @@ I love taking concepts—like a zero-bloat Windows download accelerator, an offl
 - **Idea to Architecture:** I define the product vision, core constraints, UI layout, and functional scope.
 - **AI-Powered Implementation:** I leverage state-of-the-art language models and coding assistants to generate code, explore algorithmic designs, and solve technical roadblocks.
 - **Hands-On Verification:** I compile, test edge cases, analyze runtime performance, and iteratively debug issues to ensure the applications actually deliver on their promises.
-- **Engineering Mindset:** Studying Civil Engineering at Shahjalal University of Science and Technology (SUST) gives me a strong foundation in structural logic, computational thinking, and quantitative problem solving that directly informs how I structure and validate my software projects.
+- **Engineering Mindset:** Studying Civil and Environmental Engineering at Shahjalal University of Science and Technology (SUST) gives me a strong foundation in structural logic, computational thinking, and quantitative problem solving that directly informs how I structure and validate my software projects.
 
 ---
 
@@ -109,7 +109,7 @@ Technologies and environments I have prompted, iterated on, and deployed across 
 
 ## 🏛️ Engineering & Academic Background
 
-Alongside software exploration, I am a Civil Engineering undergraduate at **Shahjalal University of Science and Technology (SUST)**.
+Alongside software exploration, I am an undergraduate in the Department of Civil and Environmental Engineering at **Shahjalal University of Science and Technology (SUST)**.
 My academic interests center on:
 - **Structural Analysis & Mechanics:** Finite element modeling, structural behavior, and dynamic load evaluation.
 - **Earthquake Engineering:** Performance-based seismic assessment (PBSA), seismic fragility analysis, and low-cycle fatigue.
